@@ -10,8 +10,8 @@
 ## Slide 2: The Problem
 **The Interview Gap: Anxiety, Cost, and Lack of Access**
 
-*   **High Anxiety:** 93% of job seekers experience anxiety during interviews, which significantly impacts performance (Source: *[Standout CV](https://standout-cv.com/job-interview-anxiety-statistics)*). For students, this is compounded by fear of judgment and lack of experience.
-*   **Prohibitive Costs:** Traditional career coaching and mock interview services are expensive, averaging **$100-$150 per hour** (Source: *[Quenza](https://quenza.com/blog/career-coaching-prices/)*, *[MentorCruise](https://mentorcruise.com/blog/career-coach-cost/)*). This is unaffordable for most students.
+*   **High Anxiety:** 72% of job seekers experience anxiety during interviews, which significantly impacts performance (Source: *[Forbes]([https://standout-cv.com/job-interview-anxiety-statistics](https://www.forbes.com/sites/bryanrobinson/2024/09/20/72-of-applicants-say-the-job-search-has-harmed-their-mental-health/)*). For students, this is compounded by fear of judgment and lack of experience.
+*   **Prohibitive Costs:** Traditional career coaching and mock interview services are expensive, averaging **$75-$200 per hour** (Source: *[Thervo](https://thervo.com/costs/how-much-does-a-career-coach-cost#:~:text=Table_title:%20Career%20coach%20cost%20Table_content:%20header:%20%7C,Building%20an%20action%20plan%20Career%2Doption%20evaluation%20%7C)*). This is unaffordable for most students.
 *   **Generic Feedback:** Free alternatives (friends, generic AI tools) often lack specific, actionable feedback tailored to the candidate's specific resume and the target job description.
 *   **Limited Access:** University career centers are often overbooked and understaffed, leaving students without timely support during peak recruiting seasons.
 
