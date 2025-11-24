@@ -67,7 +67,7 @@ We democratize access to high-quality interview coaching using AI.
 
 **Early Adopters (Beachhead Market):**
 *   **STEM & Business Students:** High-stakes interviews (Technical, Case Study) where practice is critical.
-*   **International Students:** ~270K enrolled in the US, 2024  (Source: *[OpenDoors]([https://opendoorsdata.org/data/international-students/enrollment-trends/](https://opendoorsdata.org/data/international-students/new-international-students-enrollment/))*). They face additional challenges with language nuances and cultural interview expectations, making a judgment-free AI practice tool highly attractive.
+*   **International Students:** ~270K enrolled in the US, 2024  (Source: *[OpenDoors](https://opendoorsdata.org/data/international-students/new-international-students-enrollment/))*). They face additional challenges with language nuances and cultural interview expectations, making a judgment-free AI practice tool highly attractive.
 *   **Bootcamp Graduates:** Coding bootcamp grads who need intense technical interview prep but have exhausted their budget on tuition.
 
 ---
